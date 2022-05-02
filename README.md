@@ -2,6 +2,9 @@
 
 A Streamlit app based on the [DALL-E Playground](https://github.com/saharmor/dalle-playground), with the frontent part also in Python.
 
+## Watch the Tutorial
+  [![Alt text](https://img.youtube.com/vi/fRa2rmDvOCY/hqdefault.jpg)](https://youtu.be/fRa2rmDvOCY)
+
 ## Installation
 
 ```console
