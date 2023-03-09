@@ -8,7 +8,7 @@ A Streamlit app based on the [DALL-E Playground](https://github.com/saharmor/dal
 ## Installation
 
 ```console
-$ pip install requests streamlit websockets pyaudio
+$ pip install -r requirements.txt
 ```
 
 ## Backend:
